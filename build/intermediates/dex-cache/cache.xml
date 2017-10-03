@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/thanatoszsl/AndroidStudioProjects/Hilo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="72449a86e20e3dc67a4abdfa5d1987ea0fd353e4">
+        <dex dex="/Users/thanatoszsl/AndroidStudioProjects/Hilo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ba8b51293a53fdc17b022b4df918a02f2da6c097/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thanatoszsl/AndroidStudioProjects/Hilo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/thanatoszsl/AndroidStudioProjects/Hilo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1a5bdde3bb4b8889ab2d768809d4bd02c8cfd288/classes.dex" />
+    </item>
+
+</items>
